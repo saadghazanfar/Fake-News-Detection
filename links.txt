@@ -1,0 +1,2 @@
+https://fakenews-ovloy6fcwcmhwkiwyk7kux.streamlit.app/
+https://github.com/sarimsaleem1/Fake_news
